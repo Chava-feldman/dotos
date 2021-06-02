@@ -1,0 +1,39 @@
+.middle{
+    /* width:auto; */
+    /* margin: 40%; */
+    height: auto;
+    margin:10% 20%;
+    /* padding: 20% 40%; */
+    border:rgb(3, 151, 196) 1px solid;
+    /* padding: 20%; */
+}
+body{
+    background-color:rgb(32, 32, 32);
+    text-align: center;
+    color: white;
+    font-size:30px ;
+}
+.logindiv{
+    margin: 10%;
+    width: 80%;
+}
+h1{
+    color: rgb(3, 151, 196);
+    font-size: 60px;
+}
+p{
+    font-size: 20px;
+}
+.todocard{
+    border: white 1px solid ;
+    width: 30%;
+    /* margin: 5%; */
+    padding: 1%;
+    margin-left: 35%;
+}
+/* 
+Input::placeholder {
+    color: #ffffff;
+    opacity: 1;
+}
+ */
